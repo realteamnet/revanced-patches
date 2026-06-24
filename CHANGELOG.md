@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/realteamnet/revanced-patches/compare/v1.0.2...v1.0.3) (2026-06-24)
+
+
+### Bug Fixes
+
+* also publish a fixed-name patches.rvp release asset ([6126079](https://github.com/realteamnet/revanced-patches/commit/6126079199053a8cbab8a30261b68725f61a8a32))
+
 ## [1.0.2](https://github.com/realteamnet/xbotgo-revanced-patches/compare/v1.0.1...v1.0.2) (2026-06-24)
 
 

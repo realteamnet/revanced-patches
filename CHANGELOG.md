@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/realteamnet/xbotgo-revanced-patches/compare/v1.0.1...v1.0.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* drop redundant build step to avoid duplicate release asset ([548e38b](https://github.com/realteamnet/xbotgo-revanced-patches/commit/548e38b5f6fe2d03e0233c49bc6d3c73e56a467e))
+
 ## [1.0.1](https://github.com/realteamnet/xbotgo-revanced-patches/compare/v1.0.0...v1.0.1) (2026-06-24)
 
 

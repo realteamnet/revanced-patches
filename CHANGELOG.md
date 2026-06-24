@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/realteamnet/xbotgo-revanced-patches/compare/v1.0.0...v1.0.1) (2026-06-24)
+
+
+### Bug Fixes
+
+* disable artifact signing in CI (no GPG key) ([24f3200](https://github.com/realteamnet/xbotgo-revanced-patches/commit/24f3200665415ca2ca276ae07d57e4577e4a2c60))
+
 # 1.0.0 (2026-06-24)
 
 

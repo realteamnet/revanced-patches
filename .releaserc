@@ -31,6 +31,11 @@
         "assets": [
           {
             "path": "patches/build/libs/patches-!(*sources*|*javadoc*).rvp"
+          },
+          {
+            "path": "patches/build/libs/patches-!(*sources*|*javadoc*).rvp",
+            "name": "patches.rvp",
+            "label": "patches.rvp (stable latest name)"
           }
         ],
         "successComment": false

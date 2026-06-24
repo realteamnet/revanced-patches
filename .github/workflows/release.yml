@@ -30,10 +30,9 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v6
 
-      - name: Build
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./gradlew clean build
+      # No standalone build step: semantic-release's gradle publish builds the
+      # .rvp at the resolved next version, so a separate build here would only
+      # produce a second, stale-versioned .rvp in build/libs.
 
       - name: Setup Node.js
         uses: actions/setup-node@v6

@@ -13,6 +13,7 @@ patches {
         description = "Tablet (orientation + resizeable) patches for XbotGo"
         source = "git@github.com:realteamnet/revanced-patches.git"
         author = "realteamnet"
+        contact = "realteamnet@users.noreply.github.com"
         website = "https://github.com/realteamnet/revanced-patches"
         license = "GNU General Public License v3.0"
     }
